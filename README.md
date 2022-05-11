@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @odd-coder
 - 👀 I’m interested in coding, youtubing and blogging.
 - 🌱 I’m currently learning node js.
-- 💚 Visti my blog [oddcoder.xyz](https://www.oddcoder.xyz/)
+- 💚 Visti my blog [oddcoder.xyz](https://www.oddcoder.xyz/).
 - 📫 How to reach me <br/>
 Email: oddcoderxd@gmail.com<br/>
 Discord server: [Odd Coders](https://discord.gg/7KtdeePrHV)<br/>
