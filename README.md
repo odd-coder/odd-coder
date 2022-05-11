@@ -1,9 +1,10 @@
 - 👋 Hi, I’m @odd-coder
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-Coming soon.
+- 👀 I’m interested in coding, youtubing and blogging.
+- 🌱 I’m currently learning node js.
+- 📫 How to reach me <br/>
+Email: oddcoderxd@gmail.com<br/>
+Discord server: [Odd Coders](https://discord.gg/7KtdeePrHV)<br/>
+Contact from: [Here](https://www.oddcoder.xyz/p/contact.html)
 <!---
 odd-coder/odd-coder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
