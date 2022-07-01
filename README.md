@@ -12,4 +12,4 @@ odd-coder/odd-coder is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 ### Discord
-[![Discord Presence](https://lanyard.cnrad.dev/api/906249197265776661)](https://discord.com/users/906249197265776661)
+[![Discord Presence](https://lanyard.cnrad.dev/api/906249197265776661?idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/906249197265776661)
