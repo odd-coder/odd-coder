@@ -1,4 +1,4 @@
-###About Me
+### About Me
 - 👋 Hi, I’m @odd-coder
 - 👀 I’m interested in coding, youtubing and blogging.
 - 🌱 I’m currently learning node js.
