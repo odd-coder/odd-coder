@@ -1,3 +1,4 @@
+###About Me
 - 👋 Hi, I’m @odd-coder
 - 👀 I’m interested in coding, youtubing and blogging.
 - 🌱 I’m currently learning node js.
@@ -10,3 +11,5 @@ Contact from: [Here](https://www.oddcoder.xyz/p/contact.html)
 odd-coder/odd-coder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+### Discord
+[![Discord Presence](https://lanyard.cnrad.dev/api/906249197265776661)](https://discord.com/users/906249197265776661)
